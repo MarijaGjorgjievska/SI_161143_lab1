@@ -1,0 +1,11 @@
+commit 48644272e775fd774d95a3f15c23642d8d61dc4b (HEAD -> logging, origin/master, master)
+Author: unknown <marija.gjorgjievska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:36:45 2019 +0100
+
+    modify l1.txt
+
+commit 5620d98771b553e7680f4b21132f1b9b94b7f6aa
+Author: unknown <marija.gjorgjievska@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:27:51 2019 +0100
+
+    Initial commit
